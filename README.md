@@ -4,6 +4,8 @@
 
 Simple spammer, I learned from YouTube
 -----------------------------------------------------------------------------------------------
-## version2
+## Version2
 
-In version2 of the program i will modify the program to send any message we want unlimittedly
+In version2 of the program i will modify the program to send any message we want unlimittedly.
+-----------------------------------------------------------------------------------------------
+
