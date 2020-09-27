@@ -1,2 +1,9 @@
 # Spammer
-simple spammer i learnt from YouTube
+-----------------------------------------------------------------------------------------------
+## Version1
+
+Simple spammer, I learned from YouTube
+-----------------------------------------------------------------------------------------------
+## version2
+
+In version2 of the program i will modify the program to send any message we want unlimittedly
